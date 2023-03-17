@@ -1,12 +1,12 @@
 <center>
-    <h2>Movie2Vector</h2>
+    <h2>Pick-a-Show</h2>
     <p>A Machine Learning Application to find movie recommendations</p>
 </center>
 
 <h4>Authors:</h4>
 <ol>
-    <li>Mihir Ashish Gupte - ML Model</li>
-    <li>Neelesh Ranjan Jha - API, Front End and Moral Support</li>
+    <li>Sankalp Bhatnagar</li>
+    <li>Kumar Siddharth</li>
 </ol>
 
 <h4>Screenshots:</h4>
